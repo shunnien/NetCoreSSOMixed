@@ -84,6 +84,6 @@ services.ConfigureApplicationCookie(options => {
 
 ## 參考資料
 
-[Microsoft Docs cookie在 ASP.NET apps 之間共用驗證](https://docs.microsoft.com/zh-tw/aspnet/core/security/cookie-sharing?view=aspnetcore-3.1#share-authentication-cookies-with-aspnet-core-identity)
-[Microsoft Docs Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-3.1)
-[Katana 專案概觀](https://docs.microsoft.com/zh-tw/aspnet/aspnet/overview/owin-and-katana/an-overview-of-project-katana)
+1. [Microsoft Docs cookie在 ASP.NET apps 之間共用驗證](https://docs.microsoft.com/zh-tw/aspnet/core/security/cookie-sharing?view=aspnetcore-3.1#share-authentication-cookies-with-aspnet-core-identity)
+1. [Microsoft Docs Configure ASP.NET Core Data Protection](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/configuration/overview?view=aspnetcore-3.1)
+1. [Katana 專案概觀](https://docs.microsoft.com/zh-tw/aspnet/aspnet/overview/owin-and-katana/an-overview-of-project-katana)
